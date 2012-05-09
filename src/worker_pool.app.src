@@ -5,7 +5,8 @@
 		worker_pool,
 		worker_pool_app,
 		worker_pool_sup,
-		worker_pool_worker
+		worker_pool_worker,
+		file_handle_cache
   ]},
   {registered, []},
   {applications, [kernel]},
